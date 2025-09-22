@@ -1,0 +1,2 @@
+Recently I had to upgrade the firmware on a 2006 DSLR camera from Nikon. On Nikon's website, they provide the software in a `.sit.hqx` file format. Unfortunately, `.sit` archives can only be extracted using a program called Stuffit, which no longer works properly. I read that it may work if you have an old Mac with an older version of the software installed. I was able to find an archive online where I could download the `.bin` files, so I am creating this as a mirror in case that site (https://www.nikondriver.com) goes offline.
+
